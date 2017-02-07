@@ -1,0 +1,19 @@
+\\Easy One-Six Outpost
+\\by [db]tangonovember
+\\todo
+
+Mod Info / Front End:
+Dismiss AI at ALiVE console
+alive console hotkey
+
+Unit Recruitment:
+"class", "class" @ radio in EOSOP
+
+Civilian:
+TOAR Blacklist civvie spawn in EOSOP
+Lower civvie vehicle spawn rate
+
+Back End / Files:
+Delete bon's script
+Steam Workshop @ Charlie
+Beta test w Marakis
