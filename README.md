@@ -1,4 +1,4 @@
-#Easy One-Six Outpost SP/MP (EOSOP-SP/MP)
+#Easy One-Six Outpost v0.1
 by [db]tangonovember
 
 Feedback: mailbox@dunsec.net
@@ -34,7 +34,8 @@ EOSOP is based on the ALiVE addon pack, which allows dynamic movements and organ
 
 Civilians are mixed with insurgents through the REDFOR AO - verify targets.
 
-Recruit AI squad members through the radio at field installations. Dismiss AI through the ALiVE console.
+Recruit AI squad members through the radio at field installations. 
+Dismiss AI through the ALiVE console.
 
 Change loadout through the weapon racks at field installations.
 
