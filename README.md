@@ -28,3 +28,12 @@ Feedback: mailbox@dunsec.net
 
 ###Overview
 
+EOSOP is based on the ALiVE addon pack, which allows dynamic movements and organization of AI by both BLUFOR and REDFOR AI commanders. Players spawn in Outpost: Easy 1-6, located just outside the known AO of both forces. As BLUFOR continues to push into REDFOR occupied territory to wipe out the insurgency, Players must decide between patrolling the BLUFOR AO, invading the REDFOR AO or following the tasks created by OPCOMM (Operations Commander - AI). 
+
+Civilians are mixed with insurgents through the REDFOR AO - verify targets.
+
+Recruit AI squad members through the radio at field installations.
+
+Change loadout through the weapon racks at field installations.
+
+Request combat support through the ALiVE console.
