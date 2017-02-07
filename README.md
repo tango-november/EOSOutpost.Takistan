@@ -4,27 +4,29 @@ by [db]tangonovember
 Feedback: mailbox@dunsec.net
 
 ###Required Mods:
--CBA_A3
+-[CBA_A3](http://steamcommunity.com/sharedfiles/filedetails/?id=450814997&searchtext=CBA_A3)
 
--ALiVE
+-[ALiVE](http://steamcommunity.com/sharedfiles/filedetails/?id=620260972&searchtext=ALiVE)
 
--CUP Terrains - Core
+-[CUP Terrains - Core](http://steamcommunity.com/sharedfiles/filedetails/?id=583496184)
 
--CUP Terrains - Maps
+-[CUP Terrains - Maps](http://steamcommunity.com/sharedfiles/filedetails/?id=583544987)
 
--CUP Units
+-[CUP Units](http://steamcommunity.com/sharedfiles/filedetails/?id=497661914)
 
--CUP Weapons
+-[CUP Weapons](http://steamcommunity.com/sharedfiles/filedetails/?id=497660133)
 
--Spyder Addons
+-[Spyder Addons](http://steamcommunity.com/sharedfiles/filedetails/?id=579263829)
 
--RHSUSAF
+-[RHSUSAF](http://steamcommunity.com/sharedfiles/filedetails/?id=843577117)
 
 ###Suggested Client Mods:
 
--ASR AI3
+-[ASR AI3](http://steamcommunity.com/sharedfiles/filedetails/?id=642457233)
 
--C2 Command & Control
+-[C2 Command & Control](http://steamcommunity.com/sharedfiles/filedetails/?id=491016790)
+
+Want to learn about mods in A3? [Click here](https://arma3.com/workshop101) to learn how to install mods with Steam Workshop.
 
 ###Overview
 
@@ -32,7 +34,7 @@ EOSOP is based on the ALiVE addon pack, which allows dynamic movements and organ
 
 Civilians are mixed with insurgents through the REDFOR AO - verify targets.
 
-Recruit AI squad members through the radio at field installations.
+Recruit AI squad members through the radio at field installations. Dismiss AI through the ALiVE console.
 
 Change loadout through the weapon racks at field installations.
 
