@@ -5,9 +5,7 @@
 Mod Info / Front End:
 Dismiss AI at ALiVE console
 alive console hotkey
-
-Unit Recruitment:
-"class", "class" @ radio in EOSOP
+needed mods
 
 Civilian:
 TOAR Blacklist civvie spawn in EOSOP
