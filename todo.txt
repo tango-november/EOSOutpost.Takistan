@@ -2,12 +2,7 @@
 \\by [db]tangonovember
 \\todo
 
-Mod Info / Front End:
-
-Civilian:
-TOAR Blacklist civvie spawn in EOSOP
-Lower civvie vehicle spawn rate
-
 Back End / Files:
-Steam Workshop @ Charlie
-Beta test w Marakis
+Briefing
+
+Limit resupply to ammo only
